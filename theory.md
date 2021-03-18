@@ -29,11 +29,11 @@
 
 ## Объекты: основы
 
-1. [Объекты](https://learn.javascript.ru/hello-world)
-2. [Копирование объектов и ссылки](https://learn.javascript.ru/hello-world)
-3. [Сборка мусора](https://learn.javascript.ru/hello-world)
-4. [Методы объекта, "this"](https://learn.javascript.ru/hello-world)
-5. [Конструкторы, создание объектов через "new"](https://learn.javascript.ru/hello-world)
-6. [Опциональная цепочка '?.'](https://learn.javascript.ru/hello-world)
-7. [Тип данных Symbol](https://learn.javascript.ru/hello-world)
-8. [Преобразование объектов в примитивы](https://learn.javascript.ru/hello-world)
+1. [Объекты](https://learn.javascript.ru/object)
+2. [Копирование объектов и ссылки](https://learn.javascript.ru/object-copy)
+3. [Сборка мусора](https://learn.javascript.ru/garbage-collection)
+4. [Методы объекта, "this"](https://learn.javascript.ru/object-methods)
+5. [Конструкторы, создание объектов через "new"](https://learn.javascript.ru/constructor-new)
+6. [Опциональная цепочка '?.'](https://learn.javascript.ru/optional-chaining)
+7. [Тип данных Symbol](https://learn.javascript.ru/symbol)
+8. [Преобразование объектов в примитивы](https://learn.javascript.ru/object-toprimitive)

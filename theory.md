@@ -37,3 +37,17 @@
 6. [Опциональная цепочка '?.'](https://learn.javascript.ru/optional-chaining)
 7. [Тип данных Symbol](https://learn.javascript.ru/symbol)
 8. [Преобразование объектов в примитивы](https://learn.javascript.ru/object-toprimitive)
+
+## Типы данных
+1. [Методы у примитивов](https://learn.javascript.ru/primitives-methods)
+2. [Числа](https://learn.javascript.ru/number)
+3. [Строки](https://learn.javascript.ru/string)
+4. [Массивы](https://learn.javascript.ru/array)
+5. [Методы массивов](https://learn.javascript.ru/array-methods)
+6. [Перебираемые объекты](https://learn.javascript.ru/iterable)
+7. [Map и Set](https://learn.javascript.ru/map-set)
+8. [WeakMap и WeakSet](https://learn.javascript.ru/weakmap-weakset)
+9. [Object.keys, values, entries](https://learn.javascript.ru/keys-values-entries)
+10. [Деструктурирующее присваивание](https://learn.javascript.ru/destructuring-assignment)
+11. [Дата и время](https://learn.javascript.ru/date)
+12. [Формат JSON, метод toJSON](https://learn.javascript.ru/json)

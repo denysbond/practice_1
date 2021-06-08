@@ -1,6 +1,6 @@
-
 export default function unique(data) {
-    // Change me!
-
-    return [];
+  if (data.length > 0) {
+    return [...new Set(data)];
+  }
+  return [];
 }

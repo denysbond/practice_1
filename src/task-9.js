@@ -1,6 +1,15 @@
-
 export default function merge(data) {
-    // Change me!
+  let mainObject = {};
 
-    return {};
+  data.forEach((obj) => {
+    for (let prop in obj) {
+      if (prop in mainObject) {
+        mainObject[prop].push(obj[prop]);
+      } else {
+        mainObject[prop] = [obj[prop]];
+      }
+    }
+  });
+
+  return mainObject;
 }

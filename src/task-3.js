@@ -1,6 +1,5 @@
-
 export default function sumDigits(n) {
-    // Change me!
-
-    return 0;
+  const arr = Array.from(String(n));
+  const result = arr.reduce((a, b) => a + Number(b), 0);
+  return result;
 }

@@ -1,10 +1,17 @@
-
 export default function getStats(data) {
-    // Change me!
-
+  if (data.length > 0) {
     return {
-        min: null,
-        max: null,
-        avg: null
+      max: Math.max(...data),
+      min: Math.min(...data),
+      avg:
+        data.reduce((a, b) => {
+          return a + b;
+        }) / data.length,
     };
+  }
+  return {
+    min: null,
+    max: null,
+    avg: null,
+  };
 }
